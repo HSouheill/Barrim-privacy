@@ -19,7 +19,7 @@ For a better experience while using our Service, we may require you to provide u
 - Gender
 - Location
 - Profile pictures
-- User-generated content (posts, comments, messages)
+- User-generated content (reviews, posts)
 - Device identifiers
 
 The information that we request will be retained by us and used as described in this privacy policy. The app does use third-party services that may collect information used to identify you.
